@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AFDC2342207CEAE7007DF3E8 /* Find132Pattern.m in Sources */ = {isa = PBXBuildFile; fileRef = AFDC2341207CEAE7007DF3E8 /* Find132Pattern.m */; };
 		AFE19D7E207A31BA00719284 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AFE19D7D207A31BA00719284 /* main.m */; };
 		AFE19D86207A31F800719284 /* TwoSum.m in Sources */ = {isa = PBXBuildFile; fileRef = AFE19D85207A31F800719284 /* TwoSum.m */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AFDC2340207CEAE7007DF3E8 /* Find132Pattern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Find132Pattern.h; sourceTree = "<group>"; };
+		AFDC2341207CEAE7007DF3E8 /* Find132Pattern.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Find132Pattern.m; sourceTree = "<group>"; };
 		AFE19D7A207A31BA00719284 /* LeetCodeTrainning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTrainning; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFE19D7D207A31BA00719284 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AFE19D84207A31F800719284 /* TwoSum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TwoSum.h; sourceTree = "<group>"; };
@@ -63,6 +66,8 @@
 				AFE19D7D207A31BA00719284 /* main.m */,
 				AFE19D84207A31F800719284 /* TwoSum.h */,
 				AFE19D85207A31F800719284 /* TwoSum.m */,
+				AFDC2340207CEAE7007DF3E8 /* Find132Pattern.h */,
+				AFDC2341207CEAE7007DF3E8 /* Find132Pattern.m */,
 			);
 			path = LeetCodeTrainning;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFDC2342207CEAE7007DF3E8 /* Find132Pattern.m in Sources */,
 				AFE19D86207A31F800719284 /* TwoSum.m in Sources */,
 				AFE19D7E207A31BA00719284 /* main.m in Sources */,
 			);
